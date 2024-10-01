@@ -60,7 +60,6 @@ I am actively looking for opportunities - [Hire Me](https://drive.google.com/fil
 [![An image of @p1kalys's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/p1kalys)](https://holopin.io/@p1kalys)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=p1kalys&theme=tokyonight&rank_icon=percentile)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=p1kalys&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_progress=true)
 
 ### ✍️ Random Dev Quote
