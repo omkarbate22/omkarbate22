@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omkar Bate</h1>
-<h3 align="center">A passionate Software Developer from India </h3>
+<h3 align="center">A passionate Data Scientist from India </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pavan2254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkar2207" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/omkar-bate-b11a8a218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarbate78/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/omkar-bate-b11a8a218/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pavanemani14" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/p1kalys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="p1kalys" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omkar-bate-b11a8a218/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="p1kalys" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pavanemani14/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pavanemani14/profile" height="30" width="40" /></a>
 </p>
 
